@@ -2,10 +2,10 @@
   [![Netlify Status](https://api.netlify.com/api/v1/badges/1931a5fb-0274-44db-a0bf-2f2a77217f99/deploy-status)](https://app.netlify.com/sites/ashutoshkumar/deploys)
 </div>
 <h1 align="center">
-  ashutoshkumar.tech - 
+  ashutoshkumar.tech
 </h1>
 <p align="center">
-  This is <a href="https://ashutoshkumar.tech" target="_blank">ashutoshkumar.tech/a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  This is <a href="https://ashutoshkumar.tech" target="_blank">ashutoshkumar.tech built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 ## 🚨 Forking this repo (please read!)
